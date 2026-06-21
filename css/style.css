@@ -42,3 +42,14 @@ img {
   margin: 0;
   padding: 0;
 }
+
+p.socials {
+  font-size: 1.11em;
+  margin-top: 32px;
+  color: #222222;
+}
+
+p.socials a {
+  color: #222222;
+  padding: 0 4px;
+}
